@@ -1,6 +1,6 @@
 import './style.css';
 
-export default function ButtonPrimary(){
+export default function ButtonInverse(){
 
     return (
 
