@@ -35,7 +35,7 @@ O estado da aplicação (carrinho, usuário autenticado) é compartilhado de for
 
 ---
 
-## Funcionalidades implementadas
+## Funcionalidades
 
 ### Catálogo de produtos
 - Listagem de produtos consumindo API REST
@@ -97,3 +97,15 @@ REACT_APP_API_URL=http://localhost:8080
 ```
 
 ---
+
+## Modelo de dados consumido
+
+```
+Product
+├── id
+├── name
+├── description
+├── price
+├── imgUrl
+└── categories
+```
