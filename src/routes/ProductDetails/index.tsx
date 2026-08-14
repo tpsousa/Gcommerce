@@ -25,6 +25,13 @@ const product : ProductDTO  = {
         id : 3, 
         name : "Computadores"
 
+       },
+
+       {
+        
+        id: 4,
+        name : "Eletrodomesticos"
+
        }
      ]
 }
