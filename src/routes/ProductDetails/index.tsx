@@ -54,9 +54,9 @@ export default function ProductDetails (){
                 <div className="dsc-btn-page-container">
         
         
-                <ButtonPrimary/>
         
-                <ButtonInverse/>
+                <ButtonPrimary name = "comprar"/>
+                <ButtonInverse name = "carrinho"/>
                    
                 </div>
               </section>
